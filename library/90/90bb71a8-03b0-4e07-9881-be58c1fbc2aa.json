@@ -1,8 +1,0 @@
-{
-  "__type__": "cc.TextAsset",
-  "_name": "064_baloons_group_08_X4_for_save.atlas",
-  "_objFlags": 0,
-  "__editorExtras__": {},
-  "_native": "",
-  "text": "\n064_baloons_group_08_X4_for_save.png\nsize: 128, 204\nformat: RGBA8888\nfilter: Linear, Linear\nrepeat: none\n064_baloons_group_08_1\n  rotate: false\n  xy: 2, 2\n  size: 82, 198\n  orig: 82, 198\n  offset: 0, 0\n  index: -1\n064_baloons_group_08_sh\n  rotate: true\n  xy: 86, 90\n  size: 110, 38\n  orig: 110, 38\n  offset: 0, 0\n  index: -1\n"
-}

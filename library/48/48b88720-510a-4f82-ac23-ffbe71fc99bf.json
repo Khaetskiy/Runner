@@ -1,0 +1,8 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "168_castle_entrance_anim_Broken_L.atlas",
+  "_objFlags": 0,
+  "__editorExtras__": {},
+  "_native": "",
+  "text": "\n168_castle_entrance_anim_Broken_L.png\nsize: 200, 484\nformat: RGBA8888\nfilter: Linear, Linear\nrepeat: none\n036_entrance_castle_broken_5_L\n  rotate: false\n  xy: 2, 43\n  size: 73, 438\n  orig: 73, 438\n  offset: 0, 0\n  index: -1\nHandle_1\n  rotate: false\n  xy: 146, 11\n  size: 21, 26\n  orig: 21, 26\n  offset: 0, 0\n  index: -1\nHandle_11\n  rotate: true\n  xy: 107, 9\n  size: 28, 38\n  orig: 29, 38\n  offset: 0, 0\n  index: -1\nHandle_2\n  rotate: false\n  xy: 169, 14\n  size: 20, 23\n  orig: 20, 23\n  offset: 0, 0\n  index: -1\nHandle_22\n  rotate: true\n  xy: 69, 9\n  size: 28, 36\n  orig: 28, 36\n  offset: 0, 0\n  index: -1\ndoor_left\n  rotate: false\n  xy: 77, 39\n  size: 121, 442\n  orig: 121, 442\n  offset: 0, 0\n  index: -1\ndoor_left_shadow\n  rotate: false\n  xy: 2, 2\n  size: 65, 39\n  orig: 65, 39\n  offset: 0, 0\n  index: -1\n"
+}

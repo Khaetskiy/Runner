@@ -1,0 +1,24 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "content": {
+    "name": "Mummy",
+    "spriteFrames": [
+      "Mummy_Walk_1",
+      "22278b59-5cff-43ee-b44e-ecd4fa51e274@b38ea",
+      "Mummy_Walk_2",
+      "22278b59-5cff-43ee-b44e-ecd4fa51e274@ec845",
+      "Mummy_Walk_3",
+      "22278b59-5cff-43ee-b44e-ecd4fa51e274@a7a2f",
+      "Mummy_Walk_4",
+      "22278b59-5cff-43ee-b44e-ecd4fa51e274@bf51a",
+      "Mummy_Walk_5",
+      "22278b59-5cff-43ee-b44e-ecd4fa51e274@96fee",
+      "Mummy_Walk_6",
+      "22278b59-5cff-43ee-b44e-ecd4fa51e274@2d75c",
+      "Mummy_Walk_7",
+      "22278b59-5cff-43ee-b44e-ecd4fa51e274@80d44",
+      "Mummy_Walk_8",
+      "22278b59-5cff-43ee-b44e-ecd4fa51e274@1dda8"
+    ]
+  }
+}

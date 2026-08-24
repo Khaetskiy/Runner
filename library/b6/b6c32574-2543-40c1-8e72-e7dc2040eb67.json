@@ -1,0 +1,8 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "Owl.atlas",
+  "_objFlags": 0,
+  "__editorExtras__": {},
+  "_native": "",
+  "text": "\nOwl.png\nsize: 1024, 256\nformat: RGBA8888\nfilter: Linear, Linear\nrepeat: none\nbeak\n  rotate: false\n  xy: 688, 95\n  size: 49, 41\n  orig: 49, 41\n  offset: 0, 0\n  index: -1\nblack_eyes\n  rotate: false\n  xy: 337, 32\n  size: 66, 26\n  orig: 66, 26\n  offset: 0, 0\n  index: -1\nbody\n  rotate: true\n  xy: 499, 93\n  size: 161, 187\n  orig: 161, 187\n  offset: 0, 0\n  index: -1\neyebrow\n  rotate: false\n  xy: 2, 56\n  size: 278, 198\n  orig: 278, 198\n  offset: 0, 0\n  index: -1\neyes\n  rotate: true\n  xy: 282, 2\n  size: 113, 53\n  orig: 113, 53\n  offset: 0, 0\n  index: -1\neyes_close_l\n  rotate: false\n  xy: 76, 13\n  size: 36, 41\n  orig: 36, 41\n  offset: 0, 0\n  index: -1\neyes_close_r\n  rotate: false\n  xy: 411, 86\n  size: 61, 29\n  orig: 61, 29\n  offset: 0, 0\n  index: -1\nl_leg\n  rotate: false\n  xy: 2, 13\n  size: 72, 41\n  orig: 72, 41\n  offset: 0, 0\n  index: -1\nl_wing\n  rotate: false\n  xy: 750, 150\n  size: 38, 104\n  orig: 38, 104\n  offset: 0, 0\n  index: -1\nr_leg\n  rotate: false\n  xy: 337, 60\n  size: 72, 55\n  orig: 72, 55\n  offset: 0, 0\n  index: -1\nr_up_leg\n  rotate: false\n  xy: 790, 203\n  size: 32, 21\n  orig: 32, 21\n  offset: 0, 0\n  index: -1\nr_wing\n  rotate: false\n  xy: 688, 138\n  size: 60, 116\n  orig: 60, 116\n  offset: 0, 0\n  index: -1\nwhite_eyes\n  rotate: false\n  xy: 790, 226\n  size: 83, 28\n  orig: 83, 28\n  offset: 0, 0\n  index: -1\nтень\n  rotate: false\n  xy: 282, 117\n  size: 215, 137\n  orig: 215, 137\n  offset: 0, 0\n  index: -1\n"
+}

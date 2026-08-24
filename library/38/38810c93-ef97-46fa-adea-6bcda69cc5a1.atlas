@@ -1,0 +1,272 @@
+
+Peacock.png
+size: 173,870
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BV_beak
+  rotate: false
+  xy: 82, 173
+  size: 77, 38
+  orig: 77, 39
+  offset: 0, 1
+  index: -1
+BV_body
+  rotate: true
+  xy: 2, 551
+  size: 110, 124
+  orig: 110, 124
+  offset: 0, 0
+  index: -1
+BV_ear-l
+  rotate: false
+  xy: 129, 682
+  size: 42, 76
+  orig: 42, 76
+  offset: 0, 0
+  index: -1
+BV_ear-r
+  rotate: true
+  xy: 126, 2
+  size: 58, 31
+  orig: 58, 31
+  offset: 0, 0
+  index: -1
+BV_head
+  rotate: false
+  xy: 126, 62
+  size: 45, 54
+  orig: 45, 75
+  offset: 0, 19
+  index: -1
+BV_paw-l
+  rotate: true
+  xy: 2, 31
+  size: 55, 60
+  orig: 55, 60
+  offset: 0, 0
+  index: -1
+BV_paw-r
+  rotate: false
+  xy: 2, 88
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+BV_shadow
+  rotate: false
+  xy: 2, 309
+  size: 96, 57
+  orig: 104, 67
+  offset: 4, 5
+  index: -1
+BV_tail-l
+  rotate: true
+  xy: 64, 9
+  size: 49, 54
+  orig: 49, 54
+  offset: 0, 0
+  index: -1
+BV_tail-r
+  rotate: false
+  xy: 86, 213
+  size: 80, 53
+  orig: 80, 53
+  offset: 0, 0
+  index: -1
+BV_tail1
+  rotate: false
+  xy: 121, 394
+  size: 50, 113
+  orig: 50, 113
+  offset: 0, 0
+  index: -1
+BV_tail2
+  rotate: true
+  xy: 2, 828
+  size: 40, 164
+  orig: 40, 164
+  offset: 0, 0
+  index: -1
+BV_tail3
+  rotate: true
+  xy: 2, 774
+  size: 23, 137
+  orig: 23, 137
+  offset: 0, 0
+  index: -1
+BV_wing
+  rotate: false
+  xy: 145, 805
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+FV_Beak
+  rotate: false
+  xy: 2, 437
+  size: 109, 48
+  orig: 109, 48
+  offset: 0, 0
+  index: -1
+FV_body
+  rotate: true
+  xy: 2, 663
+  size: 109, 125
+  orig: 116, 125
+  offset: 7, 0
+  index: -1
+FV_ear-l
+  rotate: false
+  xy: 100, 280
+  size: 69, 57
+  orig: 69, 57
+  offset: 0, 0
+  index: -1
+FV_ear-r
+  rotate: true
+  xy: 2, 218
+  size: 44, 80
+  orig: 44, 80
+  offset: 0, 0
+  index: -1
+FV_eyeball-l
+  rotate: false
+  xy: 148, 155
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+FV_eyeball-r
+  rotate: true
+  xy: 108, 419
+  size: 16, 11
+  orig: 16, 12
+  offset: 0, 1
+  index: -1
+FV_eyelash-l
+  rotate: true
+  xy: 108, 394
+  size: 23, 8
+  orig: 23, 8
+  offset: 0, 0
+  index: -1
+FV_eyelash-r
+  rotate: false
+  xy: 98, 269
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+FV_eyelid-l-up
+  rotate: false
+  xy: 145, 789
+  size: 25, 14
+  orig: 25, 17
+  offset: 0, 3
+  index: -1
+FV_eyelid-l_down
+  rotate: true
+  xy: 86, 268
+  size: 24, 10
+  orig: 24, 10
+  offset: 0, 0
+  index: -1
+FV_eyelid-r-down
+  rotate: true
+  xy: 129, 763
+  size: 9, 10
+  orig: 9, 11
+  offset: 0, 1
+  index: -1
+FV_eyelid-r-up
+  rotate: true
+  xy: 86, 294
+  size: 13, 12
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+FV_head
+  rotate: false
+  xy: 82, 118
+  size: 64, 53
+  orig: 64, 54
+  offset: 0, 1
+  index: -1
+FV_leg-l
+  rotate: false
+  xy: 64, 60
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+FV_leg-r
+  rotate: false
+  xy: 108, 339
+  size: 63, 53
+  orig: 63, 58
+  offset: 0, 5
+  index: -1
+FV_pupil-l
+  rotate: true
+  xy: 107, 270
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+FV_pupil-r
+  rotate: true
+  xy: 121, 542
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+FV_shadow
+  rotate: false
+  xy: 2, 368
+  size: 104, 67
+  orig: 104, 67
+  offset: 0, 0
+  index: -1
+FV_tail1
+  rotate: true
+  xy: 2, 264
+  size: 43, 82
+  orig: 43, 82
+  offset: 0, 0
+  index: -1
+FV_tail2
+  rotate: true
+  xy: 2, 799
+  size: 27, 141
+  orig: 28, 141
+  offset: 1, 0
+  index: -1
+FV_tail3
+  rotate: false
+  xy: 129, 509
+  size: 41, 171
+  orig: 41, 171
+  offset: 0, 0
+  index: -1
+FV_tail4
+  rotate: true
+  xy: 2, 487
+  size: 62, 117
+  orig: 62, 130
+  offset: 0, 13
+  index: -1
+FV_tail5
+  rotate: false
+  xy: 2, 150
+  size: 78, 66
+  orig: 78, 68
+  offset: 0, 0
+  index: -1
+FV_wing
+  rotate: true
+  xy: 141, 760
+  size: 27, 30
+  orig: 27, 33
+  offset: 0, 0
+  index: -1

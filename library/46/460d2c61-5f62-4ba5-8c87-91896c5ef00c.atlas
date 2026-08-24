@@ -1,0 +1,62 @@
+
+oak2.png
+size: 1900,1286
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+oak_2_L_arm_dwn
+  rotate: false
+  xy: 2, 9
+  size: 279, 112
+  orig: 279, 112
+  offset: 0, 0
+  index: -1
+oak_2_L_arm_up
+  rotate: false
+  xy: 761, 2
+  size: 277, 206
+  orig: 277, 206
+  offset: 0, 0
+  index: -1
+oak_2_R_arm_up
+  rotate: false
+  xy: 1040, 38
+  size: 189, 170
+  orig: 189, 170
+  offset: 0, 0
+  index: -1
+oak_2_body
+  rotate: false
+  xy: 2, 123
+  size: 757, 1161
+  orig: 757, 1161
+  offset: 0, 0
+  index: -1
+oak_2_foliage_dwn
+  rotate: false
+  xy: 1410, 65
+  size: 488, 291
+  orig: 488, 291
+  offset: 0, 0
+  index: -1
+oak_2_foliage_up
+  rotate: false
+  xy: 761, 210
+  size: 647, 652
+  orig: 647, 652
+  offset: 0, 0
+  index: -1
+oak_2_shdw
+  rotate: false
+  xy: 761, 864
+  size: 1124, 420
+  orig: 1124, 420
+  offset: 0, 0
+  index: -1
+oak_2_vines_up
+  rotate: true
+  xy: 1410, 358
+  size: 504, 470
+  orig: 586, 701
+  offset: 0, 231
+  index: -1

@@ -1,0 +1,8 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "Gift_box_back.atlas",
+  "_objFlags": 0,
+  "__editorExtras__": {},
+  "_native": "",
+  "text": "\nGift_box_back.png\nsize: 513, 111\nformat: RGBA8888\nfilter: Linear, Linear\nrepeat: none\nimages/box_bg\n  rotate: false\n  xy: 2, 2\n  size: 509, 107\n  orig: 509, 107\n  offset: 0, 0\n  index: -1\n"
+}

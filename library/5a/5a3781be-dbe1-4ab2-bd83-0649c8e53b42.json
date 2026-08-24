@@ -1,0 +1,506 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "baloons-5",
+  "_objFlags": 0,
+  "__editorExtras__": {},
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "pAlW28szPtA",
+      "spine": "3.8-from-4.0-from-4.1-from-4.2.43",
+      "x": -95.37,
+      "y": -10.99,
+      "width": 198.53,
+      "height": 311.01,
+      "images": "",
+      "audio": "C:/Users/artwork/Dropbox (Rockbite Games)/Rockbite Games Team Folder/projects/neemu-studio/partners/grafit-studio/construction-reward/construction-reward"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "construction-baloon-group-3",
+        "parent": "root",
+        "y": 41.78,
+        "color": "0000ffff",
+        "icon": "arrows"
+      },
+      {
+        "name": "construction-baloon-aqua-part",
+        "parent": "construction-baloon-group-3",
+        "length": 50,
+        "rotation": 108.9,
+        "x": -10.36,
+        "y": -10.42,
+        "color": "0000ffff"
+      },
+      {
+        "name": "construction-baloon-star-green-part",
+        "parent": "construction-baloon-group-3",
+        "length": 51.62,
+        "rotation": 95.92,
+        "x": -1.21,
+        "y": 16.65,
+        "color": "0000ffff"
+      },
+      {
+        "name": "construction-baloon-star-green",
+        "parent": "construction-baloon-star-green-part",
+        "length": 72.49,
+        "rotation": 2.96,
+        "x": 109.44,
+        "y": -3.4,
+        "color": "0000ffff"
+      },
+      {
+        "name": "construction-baloon-pink-part",
+        "parent": "construction-baloon-group-3",
+        "length": 69.02,
+        "rotation": 76.26,
+        "x": 8.12,
+        "y": -12.62,
+        "color": "0000ffff"
+      },
+      {
+        "name": "construction-baloon-pink",
+        "parent": "construction-baloon-pink-part",
+        "length": 80.08,
+        "rotation": -2.58,
+        "x": 82.07,
+        "y": -0.87,
+        "color": "0000ffff"
+      },
+      {
+        "name": "construction-baloon-aqua",
+        "parent": "construction-baloon-aqua-part",
+        "length": 50,
+        "rotation": -16.34,
+        "x": 87.08,
+        "y": 0.51,
+        "color": "0000ffff"
+      }
+    ],
+    "slots": [
+      {
+        "name": "construction-baloon-pink-part",
+        "bone": "construction-baloon-pink-part",
+        "attachment": "construction-baloon-pink-part"
+      },
+      {
+        "name": "construction-baloon-pink",
+        "bone": "construction-baloon-pink",
+        "attachment": "construction-baloon-pink"
+      },
+      {
+        "name": "construction-baloon-star-green-part",
+        "bone": "construction-baloon-star-green-part",
+        "attachment": "construction-baloon-star-green-part"
+      },
+      {
+        "name": "construction-baloon-star-green",
+        "bone": "construction-baloon-star-green",
+        "attachment": "construction-baloon-star-green"
+      },
+      {
+        "name": "construction-baloon-aqua-part",
+        "bone": "construction-baloon-aqua-part",
+        "attachment": "construction-baloon-aqua-part"
+      },
+      {
+        "name": "construction-baloon-aqua",
+        "bone": "construction-baloon-aqua",
+        "attachment": "construction-baloon-aqua"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "construction-baloon-aqua": {
+            "construction-baloon-aqua": {
+              "x": 39.36,
+              "y": -1.76,
+              "rotation": -92.55,
+              "width": 98,
+              "height": 116
+            }
+          },
+          "construction-baloon-aqua-part": {
+            "construction-baloon-aqua-part": {
+              "x": 11.9,
+              "y": -2.08,
+              "rotation": -109.59,
+              "width": 47,
+              "height": 108
+            }
+          },
+          "construction-baloon-pink": {
+            "construction-baloon-pink": {
+              "x": 53.05,
+              "y": -4.99,
+              "rotation": -73.68,
+              "width": 110,
+              "height": 113
+            }
+          },
+          "construction-baloon-pink-part": {
+            "construction-baloon-pink-part": {
+              "x": 27.79,
+              "y": -2.11,
+              "rotation": -76.26,
+              "width": 32,
+              "height": 101
+            }
+          },
+          "construction-baloon-star-green": {
+            "construction-baloon-star-green": {
+              "x": 58.09,
+              "y": -1.49,
+              "rotation": -98.69,
+              "width": 157,
+              "height": 149
+            }
+          },
+          "construction-baloon-star-green-part": {
+            "construction-baloon-star-green-part": {
+              "x": 28.8,
+              "y": -0.27,
+              "rotation": -95.92,
+              "width": 21,
+              "height": 175
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "construction-fall": {
+        "slots": {
+          "construction-baloon-aqua": {
+            "color": [
+              {
+                "time": 2.0667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 2.1667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "construction-baloon-aqua-part": {
+            "color": [
+              {
+                "time": 0.9667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "construction-baloon-pink": {
+            "color": [
+              {
+                "time": 2.5667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 2.6333,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "construction-baloon-pink-part": {
+            "color": [
+              {
+                "time": 0.9667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "construction-baloon-star-green": {
+            "color": [
+              {
+                "time": 2.2667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 2.3667,
+                "color": "ffffff00"
+              }
+            ]
+          },
+          "construction-baloon-star-green-part": {
+            "color": [
+              {
+                "time": 0.9667,
+                "color": "ffffffff"
+              },
+              {
+                "time": 1,
+                "color": "ffffff00"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "construction-baloon-group-3": {
+            "rotate": [
+              {
+                "time": 0.8
+              },
+              {
+                "time": 2.6667,
+                "angle": 12.91
+              }
+            ],
+            "translate": [
+              {
+                "time": 0.8
+              },
+              {
+                "time": 0.9667,
+                "x": -13.47,
+                "y": 71.5
+              },
+              {
+                "time": 2.6667,
+                "x": -97.18,
+                "y": 453.62
+              }
+            ],
+            "scale": [
+              {
+                "time": 0.8
+              },
+              {
+                "time": 2.6667,
+                "y": 1.07
+              }
+            ]
+          },
+          "construction-baloon-star-green": {
+            "translate": [
+              {},
+              {
+                "time": 1.1333,
+                "x": -6.05
+              },
+              {
+                "time": 2.4
+              }
+            ]
+          },
+          "construction-baloon-aqua-part": {
+            "rotate": [
+              {},
+              {
+                "time": 0.8,
+                "angle": 3.77
+              },
+              {
+                "time": 1.4333,
+                "angle": -2.05
+              },
+              {
+                "time": 2.3667,
+                "angle": 8.33
+              }
+            ],
+            "translate": [
+              {
+                "time": 0.8
+              },
+              {
+                "time": 2.3667,
+                "x": -29.46,
+                "y": -5.21,
+                "curve": "stepped"
+              },
+              {
+                "time": 3.6667,
+                "x": -29.46,
+                "y": -5.21
+              }
+            ]
+          },
+          "construction-baloon-pink-part": {
+            "rotate": [
+              {},
+              {
+                "time": 0.8,
+                "angle": -1.75
+              },
+              {
+                "time": 2.8333,
+                "angle": 4.45
+              }
+            ],
+            "translate": [
+              {
+                "time": 0.8
+              },
+              {
+                "time": 2.8333,
+                "x": 44.73,
+                "y": 297.83
+              }
+            ]
+          },
+          "construction-baloon-star-green-part": {
+            "rotate": [
+              {},
+              {
+                "time": 1.1333,
+                "angle": 4.69
+              },
+              {
+                "time": 2.5667
+              }
+            ],
+            "translate": [
+              {},
+              {
+                "time": 1.1333,
+                "x": -4.38,
+                "y": 0.72
+              },
+              {
+                "time": 2.5667,
+                "x": -51.62,
+                "y": 104.92
+              }
+            ]
+          }
+        }
+      },
+      "idle": {
+        "bones": {
+          "construction-baloon-group-3": {
+            "scale": [
+              {},
+              {
+                "time": 1,
+                "x": 1.01,
+                "y": 1.031
+              },
+              {
+                "time": 2
+              }
+            ]
+          },
+          "construction-baloon-star-green": {
+            "translate": [
+              {},
+              {
+                "time": 1,
+                "x": -6.05
+              },
+              {
+                "time": 2
+              }
+            ]
+          },
+          "construction-baloon-aqua-part": {
+            "rotate": [
+              {},
+              {
+                "time": 0.6667,
+                "angle": 3.77
+              },
+              {
+                "time": 1.3333,
+                "angle": -2.05
+              },
+              {
+                "time": 2
+              }
+            ]
+          },
+          "construction-baloon-pink-part": {
+            "rotate": [
+              {},
+              {
+                "time": 0.6667,
+                "angle": -1.75
+              },
+              {
+                "time": 1.3333,
+                "angle": 1.04
+              },
+              {
+                "time": 2
+              }
+            ],
+            "translate": [
+              {},
+              {
+                "time": 1,
+                "x": -1.24,
+                "y": 3.03
+              },
+              {
+                "time": 2
+              }
+            ]
+          },
+          "construction-baloon-star-green-part": {
+            "rotate": [
+              {
+                "angle": 1.23
+              },
+              {
+                "time": 0.3333
+              },
+              {
+                "time": 1.3333,
+                "angle": 4.69
+              },
+              {
+                "time": 2,
+                "angle": 1.23
+              }
+            ],
+            "translate": [
+              {
+                "x": -1.15,
+                "y": 0.19
+              },
+              {
+                "time": 0.3333
+              },
+              {
+                "time": 1.3333,
+                "x": -4.38,
+                "y": 0.72
+              },
+              {
+                "time": 2,
+                "x": -1.15,
+                "y": 0.19
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "textures": [
+    {
+      "__uuid__": "9a432902-d1f8-47a6-8940-f2756c1d3eb3@6c48a",
+      "__expectedType__": "cc.Texture2D"
+    }
+  ],
+  "textureNames": [
+    "baloons-5.png"
+  ],
+  "scale": 1,
+  "_atlasText": "\nbaloons-5.png\nsize: 440, 152\nformat: RGBA8888\nfilter: Linear, Linear\nrepeat: none\nconstruction-baloon-aqua\n  rotate: true\n  xy: 273, 53\n  size: 97, 116\n  orig: 98, 116\n  offset: 0, 0\n  index: -1\nconstruction-baloon-aqua-part\n  rotate: false\n  xy: 391, 42\n  size: 47, 108\n  orig: 47, 108\n  offset: 0, 0\n  index: -1\nconstruction-baloon-pink\n  rotate: false\n  xy: 161, 37\n  size: 110, 113\n  orig: 110, 113\n  offset: 0, 0\n  index: -1\nconstruction-baloon-pink-part\n  rotate: true\n  xy: 161, 3\n  size: 32, 100\n  orig: 32, 101\n  offset: 0, 1\n  index: -1\nconstruction-baloon-star-green\n  rotate: false\n  xy: 2, 2\n  size: 157, 148\n  orig: 157, 149\n  offset: 0, 1\n  index: -1\nconstruction-baloon-star-green-part\n  rotate: true\n  xy: 263, 16\n  size: 19, 175\n  orig: 21, 175\n  offset: 2, 0\n  index: -1\n"
+}

@@ -1,0 +1,8 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "kover_1.atlas",
+  "_objFlags": 0,
+  "__editorExtras__": {},
+  "_native": "",
+  "text": "\nkover_1.png\nsize: 515, 219\nformat: RGBA8888\nfilter: Linear, Linear\nrepeat: none\ncarpet_tile1\n  rotate: true\n  xy: 294, 3\n  size: 214, 107\n  orig: 214, 107\n  offset: 0, 0\n  index: -1\ncarpet_tube_end_2\n  rotate: false\n  xy: 462, 166\n  size: 51, 51\n  orig: 51, 51\n  offset: 0, 0\n  index: -1\ncarpet_tube_main\n  rotate: true\n  xy: 403, 76\n  size: 141, 96\n  orig: 142, 96\n  offset: 0, 0\n  index: -1\nstairs_1\n  rotate: false\n  xy: 2, 2\n  size: 290, 215\n  orig: 290, 215\n  offset: 0, 0\n  index: -1\ntube_shadow\n  rotate: false\n  xy: 403, 26\n  size: 90, 49\n  orig: 90, 49\n  offset: 0, 0\n  index: -1\n"
+}

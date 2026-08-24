@@ -1,0 +1,62 @@
+
+oak1.png
+size: 1787, 1557
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+oak_1_L_arm
+  rotate: true
+  xy: 1173, 770
+  size: 266, 464
+  orig: 266, 464
+  offset: 0, 0
+  index: -1
+oak_1_R_arm
+  rotate: false
+  xy: 1543, 463
+  size: 239, 306
+  orig: 239, 306
+  offset: 0, 0
+  index: -1
+oak_1_body
+  rotate: true
+  xy: 1, 421
+  size: 1135, 1171
+  orig: 1135, 1171
+  offset: 0, 0
+  index: -1
+oak_1_foliage_down
+  rotate: true
+  xy: 1173, 1037
+  size: 519, 509
+  orig: 519, 509
+  offset: 0, 0
+  index: -1
+oak_1_foliage_head
+  rotate: true
+  xy: 1638, 834
+  size: 202, 148
+  orig: 206, 148
+  offset: 4, 0
+  index: -1
+oak_1_foliage_up
+  rotate: true
+  xy: 1145, 1
+  size: 419, 557
+  orig: 419, 557
+  offset: 0, 0
+  index: -1
+oak_1_shdw
+  rotate: false
+  xy: 1, 9
+  size: 1143, 411
+  orig: 1143, 411
+  offset: 0, 0
+  index: -1
+oak_1_vines
+  rotate: true
+  xy: 1173, 421
+  size: 348, 369
+  orig: 348, 369
+  offset: 0, 0
+  index: -1

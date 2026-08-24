@@ -1,0 +1,40 @@
+{
+  "data": {
+    "path": {
+      "Animation\\MainCharacter.plist": [
+        "Animation\\MainCharacter.png"
+      ],
+      "Art\\Characters\\Mummy\\Mummy.plist": [
+        "Art\\Characters\\Mummy\\Mummy.png"
+      ],
+      "Art\\Characters\\MainCharakter\\MainCharacter.plist": [
+        "Art\\Characters\\MainCharakter\\MainCharacter.png"
+      ]
+    },
+    "uuid": {
+      "Dust.mtl": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4",
+        "6ef1defe-7997-477a-9b35-c18859ff8066"
+      ],
+      "Animation\\Materials\\Dust.mtl": [
+        "6ef1defe-7997-477a-9b35-c18859ff8066",
+        "711ebe11-f673-4cd9-9a83-63c60ba54c5b",
+        "c8f66d17-351a-48da-a12c-0212d28575c4"
+      ],
+      "MummyAcid.mtl": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4",
+        "304a12db-3955-46e4-b712-e5e26f45258b",
+        "43951343-b6b9-4790-962d-2145c96d7c95",
+        "a898b8fa-a27a-4a89-9d7f-006a466c319d"
+      ],
+      "Ыршту.mtl": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4"
+      ],
+      "Shine.mtl": [
+        "c8f66d17-351a-48da-a12c-0212d28575c4",
+        "c9de9523-a1be-4380-8c5a-20a2a95f3f96"
+      ]
+    }
+  },
+  "version": "1.0.0"
+}

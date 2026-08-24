@@ -1,0 +1,34 @@
+
+baloons-4.png
+size: 283, 105
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+construction-baloon-green
+  rotate: true
+  xy: 2, 2
+  size: 101, 122
+  orig: 102, 122
+  offset: 0, 0
+  index: -1
+construction-baloon-green-part
+  rotate: true
+  xy: 126, 2
+  size: 6, 108
+  orig: 8, 108
+  offset: 1, 0
+  index: -1
+construction-baloon-red-2
+  rotate: true
+  xy: 126, 10
+  size: 93, 116
+  orig: 93, 118
+  offset: 0, 1
+  index: -1
+construction-baloon-red-2-part
+  rotate: false
+  xy: 244, 2
+  size: 37, 101
+  orig: 39, 101
+  offset: 1, 0
+  index: -1

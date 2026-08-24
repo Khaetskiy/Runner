@@ -1,0 +1,52 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Run_7",
+    "atlas": "2b73b7d9-3157-4a86-b763-5c1647087162",
+    "rect": {
+      "x": 394,
+      "y": 537,
+      "width": 175,
+      "height": 266
+    },
+    "offset": {
+      "x": 8,
+      "y": -9
+    },
+    "originalSize": {
+      "width": 209,
+      "height": 284
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [],
+      "indexes": [],
+      "uv": [],
+      "nuv": [],
+      "minPos": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    "texture": "15a10279-acaa-429f-8735-cefe743eb95c@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

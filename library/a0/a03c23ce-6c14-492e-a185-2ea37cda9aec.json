@@ -1,0 +1,238 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "168_castle_entrance_anim_Broken_R",
+  "_objFlags": 0,
+  "__editorExtras__": {},
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "tsHQ7VHnpq0",
+      "spine": "3.8-from-4.0-from-4.1-from-4.2.43",
+      "x": -4.04,
+      "y": -24.46,
+      "width": 67,
+      "height": 459,
+      "images": "./images/",
+      "audio": "../"
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone",
+        "parent": "root",
+        "x": -1.14,
+        "y": 9.49,
+        "icon": "square"
+      },
+      {
+        "name": "036_entrance_castle_broken_5_R",
+        "parent": "bone",
+        "length": 351.69,
+        "rotation": 88.31,
+        "x": 54.11,
+        "y": -24.05,
+        "color": "d8f302ff"
+      },
+      {
+        "name": "Handle_33",
+        "parent": "036_entrance_castle_broken_5_R",
+        "length": 24.06,
+        "rotation": -0.49,
+        "x": 61.73,
+        "y": 25.03,
+        "color": "f8fc02ff"
+      },
+      {
+        "name": "Handle_3",
+        "parent": "Handle_33",
+        "length": 18.36,
+        "rotation": -114.38,
+        "x": 13.05,
+        "y": 18.19,
+        "color": "f8fc02ff"
+      }
+    ],
+    "slots": [
+      {
+        "name": "036_entrance_castle_broken_5_R",
+        "bone": "036_entrance_castle_broken_5_R",
+        "attachment": "036_entrance_castle_broken_5_R"
+      },
+      {
+        "name": "Handle_33",
+        "bone": "Handle_33",
+        "attachment": "Handle_33"
+      },
+      {
+        "name": "Handle_3",
+        "bone": "Handle_3",
+        "attachment": "Handle_3"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "036_entrance_castle_broken_5_R": {
+            "036_entrance_castle_broken_5_R": {
+              "x": 218.81,
+              "y": 29.98,
+              "rotation": -88.31,
+              "width": 67,
+              "height": 459
+            }
+          },
+          "Handle_3": {
+            "Handle_3": {
+              "x": 4.83,
+              "y": -6.6,
+              "rotation": 26.57,
+              "width": 21,
+              "height": 26
+            }
+          },
+          "Handle_33": {
+            "Handle_33": {
+              "x": 16.3,
+              "y": 11.07,
+              "rotation": -87.82,
+              "width": 29,
+              "height": 39
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "closed_door": {
+        "bones": {
+          "Handle_3": {
+            "shear": [
+              {}
+            ]
+          }
+        }
+      },
+      "opened": {
+        "slots": {
+          "036_entrance_castle_broken_5_R": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "Handle_3": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          },
+          "Handle_33": {
+            "attachment": [
+              {
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "036_entrance_castle_broken_5_R": {
+            "shear": [
+              {
+                "y": -155.33
+              }
+            ]
+          }
+        }
+      },
+      "open_door": {
+        "slots": {
+          "036_entrance_castle_broken_5_R": {
+            "attachment": [
+              {
+                "time": 0.3333,
+                "name": null
+              }
+            ]
+          },
+          "Handle_3": {
+            "attachment": [
+              {
+                "time": 0.3333,
+                "name": null
+              }
+            ]
+          },
+          "Handle_33": {
+            "attachment": [
+              {
+                "time": 0.3333,
+                "name": null
+              }
+            ]
+          }
+        },
+        "bones": {
+          "036_entrance_castle_broken_5_R": {
+            "scale": [
+              {},
+              {
+                "time": 0.1667,
+                "x": 1.023,
+                "y": 0.81
+              }
+            ],
+            "shear": [
+              {},
+              {
+                "time": 0.1667,
+                "y": -24.04
+              },
+              {
+                "time": 0.5,
+                "y": -155.33
+              }
+            ]
+          },
+          "Handle_3": {
+            "scale": [
+              {},
+              {
+                "time": 0.1,
+                "y": 1.177
+              },
+              {
+                "time": 0.5
+              }
+            ],
+            "shear": [
+              {},
+              {
+                "time": 0.1,
+                "y": -8.56
+              },
+              {
+                "time": 0.5
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "textures": [
+    {
+      "__uuid__": "32c8f4b8-16a4-4c85-b981-acce7d9723b1@6c48a",
+      "__expectedType__": "cc.Texture2D"
+    }
+  ],
+  "textureNames": [
+    "168_castle_entrance_anim_Broken_R.png"
+  ],
+  "scale": 1,
+  "_atlasText": "\n168_castle_entrance_anim_Broken_R.png\nsize: 72, 496\nformat: RGBA8888\nfilter: Linear, Linear\nrepeat: none\n036_entrance_castle_broken_5_R\n  rotate: false\n  xy: 2, 33\n  size: 67, 459\n  orig: 67, 459\n  offset: 0, 0\n  index: -1\nHandle_3\n  rotate: false\n  xy: 43, 5\n  size: 21, 26\n  orig: 21, 26\n  offset: 0, 0\n  index: -1\nHandle_33\n  rotate: true\n  xy: 2, 2\n  size: 29, 39\n  orig: 29, 39\n  offset: 0, 0\n  index: -1\n"
+}

@@ -1,0 +1,90 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "BannerLong",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 2022,
+      "height": 201
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 2022,
+      "height": 201
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [
+        -1011,
+        -100.5,
+        0,
+        1011,
+        -100.5,
+        0,
+        -1011,
+        100.5,
+        0,
+        1011,
+        100.5,
+        0
+      ],
+      "indexes": [
+        0,
+        1,
+        2,
+        2,
+        1,
+        3
+      ],
+      "uv": [
+        0,
+        201,
+        2022,
+        201,
+        0,
+        0,
+        2022,
+        0
+      ],
+      "nuv": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "minPos": {
+        "x": -1011,
+        "y": -100.5,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 1011,
+        "y": 100.5,
+        "z": 0
+      }
+    },
+    "texture": "8965eeda-6bfb-4cc1-8f66-894235f14957@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

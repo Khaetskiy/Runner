@@ -1,0 +1,52 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "Mummy_Walk_2",
+    "atlas": "22278b59-5cff-43ee-b44e-ecd4fa51e274",
+    "rect": {
+      "x": 158,
+      "y": 617,
+      "width": 169,
+      "height": 306
+    },
+    "offset": {
+      "x": 3,
+      "y": 1
+    },
+    "originalSize": {
+      "width": 187,
+      "height": 308
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "vertices": {
+      "rawPosition": [],
+      "indexes": [],
+      "uv": [],
+      "nuv": [],
+      "minPos": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "maxPos": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      }
+    },
+    "texture": "3bfe2ed9-340f-4f14-9f56-333eac514703@6c48a",
+    "packable": true,
+    "pixelsToUnit": 100,
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "meshType": 0
+  }
+}

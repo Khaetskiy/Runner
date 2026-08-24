@@ -1,0 +1,8 @@
+{
+  "__type__": "cc.TextAsset",
+  "_name": "kover_cut.atlas",
+  "_objFlags": 0,
+  "__editorExtras__": {},
+  "_native": "",
+  "text": "\nkover_cut.png\nsize: 512, 256\nformat: RGBA8888\nfilter: Linear, Linear\nrepeat: none\n1\n  rotate: false\n  xy: 276, 164\n  size: 127, 86\n  orig: 127, 86\n  offset: 0, 0\n  index: -1\n2\n  rotate: false\n  xy: 166, 43\n  size: 45, 45\n  orig: 45, 45\n  offset: 0, 0\n  index: -1\nmain\n  rotate: false\n  xy: 2, 90\n  size: 272, 160\n  orig: 272, 160\n  offset: 0, 0\n  index: -1\nshadow\n  rotate: false\n  xy: 2, 2\n  size: 162, 86\n  orig: 162, 86\n  offset: 0, 0\n  index: -1\n"
+}

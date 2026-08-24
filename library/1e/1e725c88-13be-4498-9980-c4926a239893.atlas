@@ -1,0 +1,27 @@
+
+168_castle_entrance_anim_Broken_R.png
+size: 249, 38
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+036_entrance_castle_broken_5_R
+  rotate: true
+  xy: 2, 2
+  size: 34, 228
+  orig: 34, 230
+  offset: 0, 1
+  index: -1
+Handle_3
+  rotate: false
+  xy: 232, 3
+  size: 11, 12
+  orig: 11, 13
+  offset: 0, 0
+  index: -1
+Handle_33
+  rotate: false
+  xy: 232, 17
+  size: 15, 19
+  orig: 15, 20
+  offset: 0, 0
+  index: -1

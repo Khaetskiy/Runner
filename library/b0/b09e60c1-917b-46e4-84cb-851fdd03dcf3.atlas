@@ -1,0 +1,20 @@
+
+baloons-1.png
+size: 139, 95
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+construction-baloon-red-3
+  rotate: true
+  xy: 2, 2
+  size: 91, 116
+  orig: 93, 117
+  offset: 1, 0
+  index: -1
+construction-baloon-red-3-part
+  rotate: false
+  xy: 120, 44
+  size: 17, 49
+  orig: 18, 50
+  offset: 0, 1
+  index: -1

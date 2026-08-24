@@ -1,0 +1,48 @@
+
+vines.png
+size: 992, 1017
+format: RGBA8888
+filter: Linear, Linear
+repeat: none
+vines1
+  rotate: true
+  xy: 495, 1
+  size: 483, 277
+  orig: 490, 277
+  offset: 7, 0
+  index: -1
+vines2
+  rotate: false
+  xy: 424, 772
+  size: 567, 244
+  orig: 569, 301
+  offset: 2, 0
+  index: -1
+vines3
+  rotate: false
+  xy: 1, 26
+  size: 493, 419
+  orig: 493, 419
+  offset: 0, 0
+  index: -1
+vines4
+  rotate: false
+  xy: 424, 485
+  size: 417, 286
+  orig: 444, 286
+  offset: 0, 0
+  index: -1
+vines5
+  rotate: true
+  xy: 773, 116
+  size: 368, 208
+  orig: 368, 208
+  offset: 0, 0
+  index: -1
+vines_shdw
+  rotate: true
+  xy: 1, 446
+  size: 570, 422
+  orig: 570, 422
+  offset: 0, 0
+  index: -1

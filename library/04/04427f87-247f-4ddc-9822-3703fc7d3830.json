@@ -1,0 +1,829 @@
+{
+  "__type__": "sp.SkeletonData",
+  "_name": "kover_1",
+  "_objFlags": 0,
+  "__editorExtras__": {},
+  "_native": "",
+  "_skeletonJson": {
+    "skeleton": {
+      "hash": "RCh9Su0Nz78",
+      "spine": "3.8-from-4.0-from-4.1-from-4.2.43",
+      "x": 104.78,
+      "y": 149.74,
+      "width": 201.41,
+      "height": 121.23
+    },
+    "bones": [
+      {
+        "name": "root"
+      },
+      {
+        "name": "bone",
+        "parent": "root",
+        "x": 193.44,
+        "y": 211.14,
+        "scaleX": 0.8985,
+        "scaleY": 0.8985
+      },
+      {
+        "name": "bone4",
+        "parent": "bone",
+        "rotation": -24.57,
+        "x": 106.71,
+        "y": -49.17,
+        "scaleX": 0.3969,
+        "scaleY": 0.7566,
+        "transform": "noRotationOrReflection"
+      },
+      {
+        "name": "bone5",
+        "parent": "bone",
+        "rotation": 154.36,
+        "x": -96.09,
+        "y": 48.58
+      },
+      {
+        "name": "bone2",
+        "parent": "root",
+        "x": 179.26,
+        "y": 194.14
+      },
+      {
+        "name": "masc",
+        "parent": "root",
+        "length": 68.18,
+        "rotation": 90,
+        "x": 167.77,
+        "y": 162.93,
+        "transform": "onlyTranslation"
+      }
+    ],
+    "slots": [
+      {
+        "name": "root",
+        "bone": "masc",
+        "attachment": "root"
+      },
+      {
+        "name": "carpet_tile1",
+        "bone": "root",
+        "attachment": "carpet_tile1"
+      },
+      {
+        "name": "carpet_tile2",
+        "bone": "root",
+        "attachment": "carpet_tile1"
+      },
+      {
+        "name": "carpet_tile3",
+        "bone": "root",
+        "attachment": "carpet_tile1"
+      },
+      {
+        "name": "carpet_tile4",
+        "bone": "root",
+        "attachment": "carpet_tile1"
+      },
+      {
+        "name": "carpet_tile5",
+        "bone": "root",
+        "attachment": "carpet_tile1"
+      },
+      {
+        "name": "carpet_tile6",
+        "bone": "root",
+        "attachment": "carpet_tile1"
+      },
+      {
+        "name": "carpet_tile7",
+        "bone": "root",
+        "attachment": "carpet_tile1"
+      },
+      {
+        "name": "carpet_tile8",
+        "bone": "root",
+        "attachment": "carpet_tile1"
+      },
+      {
+        "name": "stairs_1",
+        "bone": "root",
+        "attachment": "stairs_1"
+      },
+      {
+        "name": "tube_shadow",
+        "bone": "bone2",
+        "attachment": "tube_shadow"
+      },
+      {
+        "name": "carpet_tube_main",
+        "bone": "bone",
+        "attachment": "carpet_tube_main"
+      },
+      {
+        "name": "carpet_tube_end_2",
+        "bone": "bone4",
+        "attachment": "carpet_tube_end_2"
+      }
+    ],
+    "skins": [
+      {
+        "name": "default",
+        "attachments": {
+          "carpet_tile1": {
+            "carpet_tile1": {
+              "x": -114.36,
+              "y": -50.31,
+              "width": 267,
+              "height": 134
+            }
+          },
+          "carpet_tile2": {
+            "carpet_tile1": {
+              "x": -26.5,
+              "y": -6.5,
+              "width": 267,
+              "height": 134
+            }
+          },
+          "carpet_tile3": {
+            "carpet_tile1": {
+              "x": -291.04,
+              "y": -138.14,
+              "width": 267,
+              "height": 134
+            }
+          },
+          "carpet_tile4": {
+            "carpet_tile1": {
+              "x": -378.92,
+              "y": -181.98,
+              "width": 267,
+              "height": 134
+            }
+          },
+          "carpet_tile5": {
+            "carpet_tile1": {
+              "x": -466.85,
+              "y": -225.87,
+              "width": 267,
+              "height": 134
+            }
+          },
+          "carpet_tile6": {
+            "carpet_tile1": {
+              "x": -555.17,
+              "y": -269.66,
+              "width": 267,
+              "height": 134
+            }
+          },
+          "carpet_tile7": {
+            "carpet_tile1": {
+              "x": -202.48,
+              "y": -94.29,
+              "width": 267,
+              "height": 134
+            }
+          },
+          "carpet_tile8": {
+            "carpet_tile1": {
+              "x": -643.28,
+              "y": -313.59,
+              "width": 267,
+              "height": 134
+            }
+          },
+          "carpet_tube_end_2": {
+            "carpet_tube_end_2": {
+              "type": "mesh",
+              "uvs": [
+                1,
+                1,
+                0,
+                1,
+                0,
+                0,
+                1,
+                0
+              ],
+              "triangles": [
+                1,
+                2,
+                3,
+                1,
+                3,
+                0
+              ],
+              "vertices": [
+                41.41,
+                -14.98,
+                -16.67,
+                -41.88,
+                -43.57,
+                16.19,
+                14.5,
+                43.09
+              ],
+              "hull": 4
+            }
+          },
+          "carpet_tube_main": {
+            "carpet_tube_main": {
+              "type": "mesh",
+              "uvs": [
+                0.14029,
+                0.43539,
+                0.02506,
+                0.3518,
+                0.0045,
+                0.27932,
+                0.01135,
+                0.18325,
+                0.03535,
+                0.10741,
+                0.06963,
+                0.04336,
+                0.10619,
+                0.01302,
+                0.1519,
+                0.00797,
+                0.27063,
+                0.10234,
+                0.86836,
+                0.54394,
+                0.99405,
+                0.64001,
+                0.98491,
+                0.76979,
+                0.95291,
+                0.86754,
+                0.92435,
+                0.92822,
+                0.88664,
+                0.99395,
+                0.73466,
+                0.87597,
+                0.73074,
+                0.80567,
+                0.742,
+                0.73225,
+                0.75843,
+                0.68083,
+                0.77871,
+                0.63182,
+                0.80284,
+                0.58936,
+                0.82785,
+                0.56313,
+                0.13895,
+                0.37768,
+                0.14662,
+                0.32043,
+                0.16211,
+                0.25,
+                0.18102,
+                0.203,
+                0.20524,
+                0.16793,
+                0.23374,
+                0.13637
+              ],
+              "triangles": [
+                21,
+                8,
+                9,
+                20,
+                8,
+                21,
+                19,
+                8,
+                20,
+                18,
+                8,
+                19,
+                17,
+                8,
+                18,
+                11,
+                9,
+                10,
+                11,
+                21,
+                9,
+                13,
+                15,
+                16,
+                11,
+                20,
+                21,
+                16,
+                27,
+                17,
+                15,
+                0,
+                16,
+                11,
+                12,
+                20,
+                12,
+                19,
+                20,
+                12,
+                18,
+                19,
+                12,
+                17,
+                18,
+                13,
+                17,
+                12,
+                13,
+                16,
+                17,
+                14,
+                15,
+                13,
+                27,
+                7,
+                8,
+                26,
+                7,
+                27,
+                25,
+                7,
+                26,
+                25,
+                6,
+                7,
+                25,
+                5,
+                6,
+                25,
+                4,
+                5,
+                24,
+                4,
+                25,
+                3,
+                4,
+                24,
+                2,
+                3,
+                24,
+                23,
+                2,
+                24,
+                1,
+                2,
+                23,
+                22,
+                1,
+                23,
+                0,
+                22,
+                23,
+                1,
+                22,
+                0,
+                17,
+                27,
+                8,
+                27,
+                25,
+                26,
+                27,
+                16,
+                25,
+                25,
+                23,
+                24,
+                25,
+                16,
+                23,
+                16,
+                0,
+                23
+              ],
+              "vertices": [
+                1,
+                3,
+                -33.92,
+                20.95,
+                1,
+                1,
+                3,
+                -10.79,
+                20.62,
+                1,
+                1,
+                3,
+                -3.75,
+                14.35,
+                1,
+                1,
+                3,
+                0.15,
+                3.44,
+                1,
+                1,
+                3,
+                0.26,
+                -6.61,
+                1,
+                1,
+                3,
+                -1.89,
+                -16.16,
+                1,
+                1,
+                3,
+                -6.15,
+                -22.24,
+                1,
+                1,
+                3,
+                -13.18,
+                -26.29,
+                1,
+                1,
+                3,
+                -37.23,
+                -25.07,
+                1,
+                1,
+                2,
+                -69.7,
+                33.07,
+                1,
+                1,
+                2,
+                -6.63,
+                31.61,
+                1,
+                1,
+                2,
+                6.17,
+                12.03,
+                1,
+                1,
+                2,
+                5.64,
+                -5.18,
+                1,
+                1,
+                2,
+                1.8,
+                -16.72,
+                1,
+                1,
+                2,
+                -5.11,
+                -29.89,
+                1,
+                1,
+                2,
+                -81.6,
+                -27.86,
+                1,
+                1,
+                2,
+                -92.12,
+                -18.12,
+                1,
+                1,
+                2,
+                -96.86,
+                -6.46,
+                1,
+                1,
+                2,
+                -96.78,
+                2.56,
+                1,
+                1,
+                2,
+                -94.8,
+                11.61,
+                1,
+                1,
+                2,
+                -90.44,
+                20.09,
+                1,
+                1,
+                2,
+                -83.65,
+                26.33,
+                1,
+                1,
+                3,
+                -30.31,
+                14.7,
+                1,
+                1,
+                3,
+                -28.56,
+                7.91,
+                1,
+                1,
+                3,
+                -27.38,
+                -0.89,
+                1,
+                1,
+                3,
+                -27.95,
+                -7.42,
+                1,
+                2,
+                3,
+                -30,
+                -13.07,
+                0.99714,
+                2,
+                -386.53,
+                22.2,
+                0.00286,
+                1,
+                3,
+                -32.93,
+                -18.66,
+                1
+              ],
+              "hull": 16
+            }
+          },
+          "root": {
+            "root": {
+              "type": "clipping",
+              "end": "root",
+              "vertexCount": 5,
+              "vertices": [
+                1,
+                5,
+                99.48,
+                99.96,
+                1,
+                1,
+                5,
+                -27.18,
+                -152.64,
+                1,
+                1,
+                0,
+                396.75,
+                157.18,
+                1,
+                1,
+                0,
+                402.67,
+                464.09,
+                1,
+                1,
+                0,
+                93.22,
+                555.4,
+                1
+              ]
+            }
+          },
+          "stairs_1": {
+            "stairs_1": {
+              "x": 109.5,
+              "y": 104.5,
+              "width": 362,
+              "height": 269
+            }
+          },
+          "tube_shadow": {
+            "tube_shadow": {
+              "x": 2.51,
+              "y": 0.01,
+              "width": 113,
+              "height": 61
+            }
+          }
+        }
+      }
+    ],
+    "animations": {
+      "carpet_open": {
+        "slots": {
+          "tube_shadow": {
+            "color": [
+              {
+                "color": "ffffff22"
+              },
+              {
+                "time": 0.1667,
+                "color": "ffffffca"
+              },
+              {
+                "time": 0.3,
+                "color": "ffffff82"
+              },
+              {
+                "time": 0.3667,
+                "color": "ffffffca"
+              },
+              {
+                "time": 2.3333,
+                "color": "ffffff45"
+              }
+            ]
+          }
+        },
+        "bones": {
+          "bone": {
+            "translate": [
+              {
+                "x": -6.33,
+                "y": 162.14
+              },
+              {
+                "time": 0.0667,
+                "x": -6.33,
+                "y": 128.61
+              },
+              {
+                "time": 0.1667,
+                "x": -6.33,
+                "y": -5.52,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.2333,
+                "x": -6.33,
+                "y": -5.52
+              },
+              {
+                "time": 0.3333,
+                "x": -6.33,
+                "y": 22.07
+              },
+              {
+                "time": 0.3667,
+                "x": -6.33,
+                "y": -5.52
+              },
+              {
+                "time": 0.8,
+                "x": -227.94,
+                "y": -201.28
+              },
+              {
+                "time": 2.3333,
+                "x": -889.65,
+                "y": -548.49
+              }
+            ]
+          },
+          "bone4": {
+            "scale": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 1.3333
+              },
+              {
+                "time": 2.3333,
+                "x": -0.147,
+                "y": -0.147
+              }
+            ]
+          },
+          "bone5": {
+            "scale": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 1.3333
+              },
+              {
+                "time": 2.3333,
+                "x": -0.147,
+                "y": -0.147
+              }
+            ]
+          },
+          "bone2": {
+            "rotate": [
+              {},
+              {
+                "time": 2.3333,
+                "angle": -18.09
+              }
+            ],
+            "translate": [
+              {},
+              {
+                "time": 0.1667,
+                "x": 6.96,
+                "y": -5.7,
+                "curve": "stepped"
+              },
+              {
+                "time": 0.3667,
+                "x": 6.96,
+                "y": -5.7
+              },
+              {
+                "time": 0.8,
+                "x": -222.93,
+                "y": -205.03
+              },
+              {
+                "time": 2.3333,
+                "x": -879.8,
+                "y": -532.61
+              }
+            ],
+            "scale": [
+              {},
+              {
+                "time": 0.1667,
+                "x": 1.813,
+                "y": 1.813
+              },
+              {
+                "time": 0.3,
+                "x": 1.541,
+                "y": 1.541
+              },
+              {
+                "time": 0.3667,
+                "x": 1.813,
+                "y": 1.813
+              },
+              {
+                "time": 2.3333,
+                "x": 2.12,
+                "y": 0.611
+              }
+            ],
+            "shear": [
+              {
+                "curve": "stepped"
+              },
+              {
+                "time": 0.8
+              },
+              {
+                "time": 2.3333,
+                "y": -19.47
+              }
+            ]
+          },
+          "masc": {
+            "translate": [
+              {},
+              {
+                "time": 0.1667,
+                "x": -2.93,
+                "y": -17.5
+              },
+              {
+                "time": 0.3333,
+                "x": -2.89,
+                "y": 4.33
+              },
+              {
+                "time": 0.3667,
+                "x": -2.88,
+                "y": -19.13
+              },
+              {
+                "time": 0.8,
+                "x": -215.59,
+                "y": -217.6
+              },
+              {
+                "time": 2.3,
+                "x": -884.18,
+                "y": -532.13
+              },
+              {
+                "time": 2.3333,
+                "x": -2.39,
+                "y": -13.34
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  "textures": [
+    {
+      "__uuid__": "f68628a0-6a85-4979-8c63-34877e6c5f69@6c48a",
+      "__expectedType__": "cc.Texture2D"
+    }
+  ],
+  "textureNames": [
+    "kover_1.png"
+  ],
+  "scale": 1,
+  "_atlasText": "\nkover_1.png\nsize: 515, 219\nformat: RGBA8888\nfilter: Linear, Linear\nrepeat: none\ncarpet_tile1\n  rotate: true\n  xy: 294, 3\n  size: 214, 107\n  orig: 214, 107\n  offset: 0, 0\n  index: -1\ncarpet_tube_end_2\n  rotate: false\n  xy: 462, 166\n  size: 51, 51\n  orig: 51, 51\n  offset: 0, 0\n  index: -1\ncarpet_tube_main\n  rotate: true\n  xy: 403, 76\n  size: 141, 96\n  orig: 142, 96\n  offset: 0, 0\n  index: -1\nstairs_1\n  rotate: false\n  xy: 2, 2\n  size: 290, 215\n  orig: 290, 215\n  offset: 0, 0\n  index: -1\ntube_shadow\n  rotate: false\n  xy: 403, 26\n  size: 90, 49\n  orig: 90, 49\n  offset: 0, 0\n  index: -1\n"
+}
